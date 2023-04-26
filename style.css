@@ -1,0 +1,48 @@
+
+h1{
+  font-family: fantasy;
+  font-size: 65px;
+  color: royalblue;
+  text-align: center;
+  
+}
+
+
+
+body{
+  text-align: center;
+  background-color:rgb(255,400,200);
+  font-family: monospace;
+}
+.arrendondar{
+  border-radius: 5%;
+}
+
+li, h2{
+font-size: 30px;
+
+}
+p{
+  font-size: 20px;
+}
+
+.bottom{
+  padding: 5px 10px;
+  border-radius: 4px;
+  background-color: royalblue;
+  color: white;
+  text-decoration: none;
+
+}
+
+.colorname{
+  background-color: blue;
+  padding: 2px 8px;
+  color: white;
+  border-radius: 50px 10px;
+
+}
+
+.textoPiscando{}
+
+
