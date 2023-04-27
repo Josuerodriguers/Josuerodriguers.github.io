@@ -20,6 +20,7 @@ body{
   position: absolute;
   top: 180px;
   right: 850px;
+  border: solid 4px royalblue;
 }
 
 li, h2{
