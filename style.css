@@ -1,0 +1,131 @@
+
+h1{
+  font-family: fantasy;
+  font-size: 65px;
+  color: royalblue;
+  text-align: center;
+  
+}
+
+
+
+body{
+  text-align: center;
+  background-color:rgb(255,400,200);
+  font-family: monospace;
+}
+.arrendondar{
+  border-radius: 5%;
+  width: 200px;
+  position: absolute;
+  top: 180px;
+  right: 850px;
+}
+
+li, h2{
+font-size: 30px;
+
+}
+p{
+  font-size: 20px;
+  
+}
+
+.bottom{
+  padding: 5px 10px;
+  border-radius: 4px;
+  background-color: royalblue;
+  color: white;
+  text-decoration: none;
+
+}
+
+.descricao{
+    position: absolute;
+    top: 500px;
+    right: 700px;
+
+}
+
+.colorname {
+
+    position: absolute;
+    top: 450px;
+    right: 750px;
+    
+    
+
+}
+
+.colorname:hover{
+
+    background-color: blue;
+    padding: 10px ;
+    margin: auto;
+    color: white;
+    border-radius: 50px 10px;
+
+}
+
+
+.colorname-list{
+
+    position: absolute;
+    top: 630px;
+    right: 800px;
+
+}  
+ 
+.colorname-list:hover{
+
+    background-color: blue;
+    padding: 10px ;
+    margin: auto;
+    color: white;
+    border-radius: 50px 10px;
+
+}
+
+.bottom-links{
+    position: absolute;
+    top: 850px;
+    right: 850px;
+   
+ }
+
+
+
+.habilidades-list {
+    position: absolute;
+    align-items: center;
+    top: 700px;
+    left: 800px;
+  
+}
+
+.habilidades-list:hover{
+
+background-color: aqua;
+padding: 5px;
+margin: auto;
+color: black;
+border-radius: 50px 10px;
+
+}
+
+.bottomJosu {
+    position: absolute;
+    top: 10px ;
+    left: 900px;
+    z-index: 2;
+
+}
+
+.estudante {
+    position: absolute;
+    top: 50px;
+   right: 820px; 
+}
+
+
+
