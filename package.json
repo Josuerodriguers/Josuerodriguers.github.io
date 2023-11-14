@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "https://Josuerodriguers.github.io/",
   "description": "",
-  "main": "index.js",
+  "main": "module",
   "scripts": {
     "dev": "vite --open",
     "build": "tsc && vite build",
