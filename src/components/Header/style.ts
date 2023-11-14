@@ -1,10 +1,15 @@
 import { styled } from 'styled-components';
 
 export const HeaderWrapper = styled.header`
+font-size: 18px;
+position: fixed;
+top: 0px;
+left: 0px;
+width: 100%; /* Ocupa 100% da largura */
   display: flex;
   padding: 10px;
   width: 100%;
-  /* height: 70px; */
+   height: 60px; 
   padding: 1rem 0.5rem;
   justify-content: space-between;
   align-items: center;
@@ -21,8 +26,16 @@ export const HeaderWrapper = styled.header`
   }
 `
 
+
+
 export const MenuWrapper = styled.nav`
-  font-size: 18px;
+font-size: 18px;
+position: fixed;
+gap: 10px;
+top: 25px;
+left: 10px;
+justify-content: center;
+width: 100%; /* Ocupa 100% da largura */
 
   @media screen and (min-width: 769px) {
     display: flex;
@@ -71,6 +84,12 @@ export const MenuWrapper = styled.nav`
 `
 
 export const ToggleThemeButton = styled.button`
+font-size: 18px;
+position: relative;
+top: 50%;
+margin-top: 10px
+transform: translateY(-50%);
+right: 15px; 
   background-color: transparent;
   border: none;
   cursor: pointer;
