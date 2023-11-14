@@ -13,7 +13,7 @@ import SkillsSections from './components/SkillsSection/SkillsSection';
 function App() {
   const { theme } = useContext(ThemeContext)
   return (
-    <ThemeProvider theme={(theme === 'dark') ? dark : light}>
+    <ThemeProvider theme={(theme === 'light') ? dark : light}>
       <GlobalStyles />
       <Header/>
       <main>
