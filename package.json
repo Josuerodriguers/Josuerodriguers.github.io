@@ -2,7 +2,7 @@
   "name": "josuerodriguers.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "module",
   "scripts": {
     "dev": "vite --open",
     "build": "tsc && vite build",
