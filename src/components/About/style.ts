@@ -40,13 +40,13 @@ export const ImgProfile = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 300px;
-  height: 300px;
+  min-width: 400px;
+  height: 400px;
 
   &::before {
     content: "";
     position: absolute;
-    border-radius: 100%;
+    border-radius: 50%;
     width: 307px;
     height: 307px;
     background: linear-gradient(-45deg, #14dceb 0%, #0d057a 100%);
@@ -78,7 +78,7 @@ export const ImgProfile = styled.div`
     /* width: 100%; */
     object-fit: cover;
     height: 300px;
-    border-radius: 100%;
+    border-radius: 50%;
   }
 `
 

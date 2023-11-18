@@ -8,6 +8,8 @@ import Header from './components/Header/Header';
 import About from './components/About/About';
 import Separator from './components/Separator/Separator';
 import SkillsSections from './components/SkillsSection/SkillsSection';
+import Footer from './components/Footer/Footer';
+import Carousel from './components/Carousel/Carousel';
 
 
 function App() {
@@ -21,7 +23,10 @@ function App() {
         <Separator id='front-end'>Front-End Skills</Separator>
         <SkillsSections />
         <Separator>Projetos</Separator>
+        <Carousel />
+        <Footer />
       </main>
+
     </ThemeProvider>
 
   )
