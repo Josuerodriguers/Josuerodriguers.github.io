@@ -15,6 +15,8 @@ const slideFromLeft = keyframes`
 `;
 
 export const SeparatorWrapper = styled.section`
+  display: flex;
+  justify-content: center;
   background-color: ${({ theme }) => theme.colors.primary};
   /* box-shadow: 1px 1px 6px 0px #e81cff; */
   box-shadow: 1px 1px 6px 0px ${({ theme }) => theme.colors.secondary};
