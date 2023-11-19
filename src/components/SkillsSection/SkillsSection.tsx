@@ -1,16 +1,17 @@
 import Skill from '../Skill/Skill'
 import { SkillsWrapper } from './style'
 
+
 function SkillsSections() {
   return (
     <SkillsWrapper>
       <article>
-        <Skill title='HTML & CSS'>
+        <Skill title='HTML & CSS'> 
         Mergulho na arte da criação web através da combinação de HTML semântico e CSS estruturado. Minha abordagem não se limita a funcionalidade, mas se estende à entrega de experiências excepcionais aos usuários.
         </Skill>
-        <Skill title='Javascript'>
+        <Skill title='Javascript' >  
         Minhas habilidades em JavaScript transcendem a mera escrita de código. Possuo um profundo entendimento da lógica de programação, JavaScript assíncrono, programação funcional, manipulação do DOM e gestão de eventos.
-        </Skill>
+        </Skill> 
         <Skill title='React'>
         Domino o React, uma biblioteca crucial para o desenvolvimento de interfaces modernas. Minha experiência abrange desde a criação de componentes funcionais e de classe até o gerenciamento de estado, o uso de diversos hooks nativos e a criação de hooks personalizados.
         </Skill>
@@ -22,8 +23,11 @@ function SkillsSections() {
         </Skill>
       </article>
 
-
+      
     </SkillsWrapper>
+
+
+    
   )
 }
 

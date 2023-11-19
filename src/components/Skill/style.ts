@@ -13,3 +13,4 @@ export const SkillDescription = styled.div`
     text-align: justify;
   }
 `
+

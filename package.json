@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://josuerodriguers.github.io",
+  "homepage": "https://josuerodriguers.github.io",
   "name": "josuerodriguers.github.io",
   "version": "1.0.0",
   "description": "",
@@ -16,6 +16,7 @@
     "@phosphor-icons/react": "^2.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
     "styled-components": "^6.1.1"
   },
   "devDependencies": {

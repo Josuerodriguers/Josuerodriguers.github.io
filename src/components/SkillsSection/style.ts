@@ -47,3 +47,4 @@ export const SkillsWrapper = styled.section`
     }
   }
 `
+
