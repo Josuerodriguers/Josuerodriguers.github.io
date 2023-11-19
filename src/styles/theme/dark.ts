@@ -11,7 +11,7 @@ export default {
   
       primaryText: '#fff',
   
-      primary: '#252525',
+      primary: '#1A1B1C',
       // primary: '#8458E6',
       secondary: '#14389d',
   

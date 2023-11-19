@@ -42,6 +42,9 @@ function Header() {
             <li>
               <a href="#">Back-End</a>  
             </li>
+            <li>
+              <a href="#projetos">Projetos</a>  
+            </li>
           </ul>
         </MenuWrapper>
       </div>

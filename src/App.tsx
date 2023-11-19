@@ -22,7 +22,7 @@ function App() {
         <About />
         <Separator id='front-end'>Front-End Skills</Separator>
         <SkillsSections />
-        <Separator>Projetos</Separator>
+        <Separator id='projetos'>Projetos</Separator>
         <Carousel />
         <Footer />
       </main>

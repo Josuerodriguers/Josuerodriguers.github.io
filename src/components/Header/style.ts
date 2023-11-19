@@ -27,7 +27,6 @@ width: 100%; /* Ocupa 100% da largura */
 `
 
 
-
 export const MenuWrapper = styled.nav`
 font-size: 18px;
 position: fixed;

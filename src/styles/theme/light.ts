@@ -12,12 +12,12 @@ export default {
       primaryText: '#1e1e1e',
       secondaryText: '#fff',
   
-      primary: '#252525',
+      primary: '#454545',
       secondary: '#14389d',
   
-      background: '#e1e1e1',
+      background: '#acaaaa',
   
-      cardBackground: '#fff',
+      cardBackground: '#98989a',
   
       arrowBackground: '#252525',
   
