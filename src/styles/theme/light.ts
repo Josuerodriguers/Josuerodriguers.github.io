@@ -16,7 +16,6 @@ export default {
       secondary: '#14389d',
   
       background: '#acaaaa',
-  
       cardBackground: '#98989a',
   
       arrowBackground: '#252525',

@@ -77,7 +77,7 @@ width: 100%; /* Ocupa 100% da largura */
       left: 25%;
     }
     opacity: 1;
-    background-color: rgba(0, 0, 0, 0.1);
+
   } 
 }
 `
