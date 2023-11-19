@@ -19,7 +19,7 @@ const fadeIn = keyframes`
 
 export const AboutWrapper = styled.section`
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   padding: 30px 5px;
   margin-bottom: 70px;
