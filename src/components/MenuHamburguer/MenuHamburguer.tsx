@@ -19,18 +19,10 @@ function MenuHamburguer() {
         menuOpen && (
           <MenuPopup menuOpen= {menuOpen}>
             <ul>
-                <li>
-                  <a href="#">Home</a>  
-                </li>
-                <li>
-                  <a href="#front-end">Front-End</a> 
-                </li>
-                <li>
-                  <a href="#">Back-End</a>  
-                </li>
-                <li>
-              <a href="#projetos">Projetos</a>  
-            </li>
+                <li><a href="#">Home</a></li>
+                {/* <li><a href="#experiencia">Experiência</a></li> */}
+                <li><a href="#front-end">Front-End</a></li>
+                <li><a href="#projetos">Projetos</a></li>
               </ul>
           </MenuPopup>
         )

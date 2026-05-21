@@ -10,16 +10,19 @@ import Separator from './components/Separator/Separator';
 import SkillsSections from './components/SkillsSection/SkillsSection';
 import Footer from './components/Footer/Footer';
 import Carousel from './components/Carousel/Carousel';
+// import Experience from './components/Experience/Experience';
 
 
 function App() {
   const { theme } = useContext(ThemeContext)
   return (
-    <ThemeProvider theme={(theme === 'light') ? dark : light}>
+    <ThemeProvider theme={(theme === 'dark') ? dark : light}>
       <GlobalStyles />
       <Header/>
       <main>
         <About />
+        {/* <Separator id='experiencia'>Experiência</Separator> */}
+        {/* <Experience /> */}
         <Separator id='front-end'>Front-End Skills</Separator>
         <SkillsSections />
         <Separator id='projetos'>Projetos</Separator>
