@@ -8,18 +8,17 @@ export default {
       gray700: "#29292e",
       gray800: "#282824",
       gray900: "#121214",
-  
-      primaryText: '#1e1e1e',
-      secondaryText: '#fff',
-  
-      primary: '#454545',
-      secondary: '#14389d',
-  
-      background: '#acaaaa',
-      cardBackground: '#98989a',
-  
-      arrowBackground: '#252525',
-  
-      borderColor: '#14389d',
+
+      primaryText: '#1A1A2E',
+
+      primary: '#1A1040',
+      secondary: '#7C3AED',
+
+      background: '#F0EEFF',
+      cardBackground: '#E8E4FA',
+
+      arrowBackground: '#7C3AED',
+
+      borderColor: '#7C3AED',
     },
   };

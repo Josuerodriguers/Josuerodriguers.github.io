@@ -13,7 +13,7 @@ function About() {
           <p>Full Stack Deveveloper</p>
           <p>
             Sou um desenvolvedor Web FullStack,
-            Buscando pela primeira oportunidade de mostras minhas habilidades e conhecimentos como desenvolvedor.
+            Atualmente trabalhando como Desenvolvedor Pleno Na Central IT.
           </p>
           <SocialMedia>
             <a href="https://github.com/josuerodriguers" target="_blank">
